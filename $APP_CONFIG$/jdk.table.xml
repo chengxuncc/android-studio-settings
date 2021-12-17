@@ -1,0 +1,588 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8 (2)" />
+      <type value="JavaSDK" />
+      <version value="version 11.0.10" />
+      <homePath value="$APPLICATION_HOME_DIR$/jre" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.base" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.compiler" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.datatransfer" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.desktop" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.instrument" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.logging" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.management" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.management.rmi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.naming" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.net.http" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.prefs" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.rmi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.scripting" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.se" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.security.jgss" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.security.sasl" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.smartcardio" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.sql" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.sql.rowset" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.transaction.xa" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.xml" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.xml.crypto" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.accessibility" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.aot" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.attach" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.charsets" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.compiler" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.dynalink" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.httpserver" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.ed" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.le" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.opt" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jartool" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.javadoc" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jdeps" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jdi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jfr" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jlink" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jsobject" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.localedata" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.management" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.management.agent" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.management.jfr" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.naming.dns" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.net" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.pack" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.sctp" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.security.auth" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.security.jgss" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.unsupported" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.xml.dom" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Embedded JDK" />
+      <type value="JavaSDK" />
+      <version value="version 11.0.10" />
+      <homePath value="$APPLICATION_HOME_DIR$/jre" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.base" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.compiler" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.datatransfer" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.desktop" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.instrument" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.logging" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.management" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.management.rmi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.naming" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.net.http" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.prefs" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.rmi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.scripting" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.se" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.security.jgss" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.security.sasl" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.smartcardio" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.sql" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.sql.rowset" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.transaction.xa" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.xml" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.xml.crypto" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.accessibility" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.aot" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.attach" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.charsets" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.compiler" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.dynalink" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.httpserver" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.ed" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.le" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.opt" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jartool" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.javadoc" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jdeps" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jdi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jfr" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jlink" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jsobject" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.localedata" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.management" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.management.agent" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.management.jfr" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.naming.dns" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.net" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.pack" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.sctp" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.security.auth" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.security.jgss" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.unsupported" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.xml.dom" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="11" />
+      <type value="JavaSDK" />
+      <version value="version 11.0.10" />
+      <homePath value="$APPLICATION_HOME_DIR$/jre" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.base" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.compiler" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.datatransfer" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.desktop" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.instrument" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.logging" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.management" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.management.rmi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.naming" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.net.http" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.prefs" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.rmi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.scripting" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.se" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.security.jgss" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.security.sasl" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.smartcardio" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.sql" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.sql.rowset" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.transaction.xa" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.xml" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.xml.crypto" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.accessibility" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.aot" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.attach" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.charsets" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.compiler" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.dynalink" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.httpserver" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.ed" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.le" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.opt" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jartool" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.javadoc" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jdeps" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jdi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jfr" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jlink" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jsobject" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.localedata" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.management" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.management.agent" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.management.jfr" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.naming.dns" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.net" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.pack" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.sctp" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.security.auth" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.security.jgss" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.unsupported" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.xml.dom" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android Studio java home" />
+      <type value="JavaSDK" />
+      <version value="version 11.0.10" />
+      <homePath value="$APPLICATION_HOME_DIR$/jre" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.base" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.compiler" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.datatransfer" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.desktop" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.instrument" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.logging" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.management" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.management.rmi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.naming" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.net.http" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.prefs" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.rmi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.scripting" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.se" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.security.jgss" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.security.sasl" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.smartcardio" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.sql" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.sql.rowset" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.transaction.xa" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.xml" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.xml.crypto" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.accessibility" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.aot" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.attach" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.charsets" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.compiler" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.dynalink" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.httpserver" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.ed" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.le" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.opt" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jartool" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.javadoc" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jdeps" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jdi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jfr" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jlink" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jsobject" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.localedata" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.management" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.management.agent" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.management.jfr" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.naming.dns" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.net" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.pack" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.sctp" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.security.auth" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.security.jgss" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.unsupported" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.xml.dom" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="version 1.8.0_312" />
+      <homePath value="D:/Scoop/apps/temurin8-jdk/current" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://D:/Scoop/apps/temurin8-jdk/current/src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 28 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:/Scoop/apps/android-sdk/current" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://D:/Scoop/apps/android-sdk/current/platforms/android-28/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://D:/Scoop/apps/android-sdk/current/platforms/android-28/android.jar!/" type="simple" />
+            <root url="file://D:/Scoop/apps/android-sdk/current/platforms/android-28/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://D:/Scoop/apps/android-sdk/current/sources/android-28" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8 (2)" sdk="android-28" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 29 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:/Scoop/apps/android-sdk/current" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://D:/Scoop/apps/android-sdk/current/platforms/android-29/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://D:/Scoop/apps/android-sdk/current/platforms/android-29/android.jar!/" type="simple" />
+            <root url="file://D:/Scoop/apps/android-sdk/current/platforms/android-29/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://D:/Scoop/apps/android-sdk/current/sources/android-29" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8 (2)" sdk="android-29" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 30 Platform" />
+      <type value="Android SDK" />
+      <version value="version 11.0.10" />
+      <homePath value="D:/Scoop/apps/android-sdk/current" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://D:/Scoop/apps/android-sdk/current/platforms/android-30/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://D:/Scoop/apps/android-sdk/current/platforms/android-30/android.jar!/" type="simple" />
+            <root url="file://D:/Scoop/apps/android-sdk/current/platforms/android-30/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://D:/Scoop/apps/android-sdk/current/sources/android-30" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8 (2)" sdk="android-30" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 31 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:/Scoop/apps/android-sdk/current" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://D:/Scoop/apps/android-sdk/current/platforms/android-31/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://D:/Scoop/apps/android-sdk/current/platforms/android-31/android.jar!/" type="simple" />
+            <root url="file://D:/Scoop/apps/android-sdk/current/platforms/android-31/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://D:/Scoop/apps/android-sdk/current/sources/android-31" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8 (2)" sdk="android-31" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android Studio default JDK" />
+      <type value="JavaSDK" />
+      <version value="version 11.0.10" />
+      <homePath value="$APPLICATION_HOME_DIR$/jre" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.base" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.compiler" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.datatransfer" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.desktop" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.instrument" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.logging" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.management" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.management.rmi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.naming" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.net.http" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.prefs" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.rmi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.scripting" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.se" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.security.jgss" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.security.sasl" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.smartcardio" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.sql" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.sql.rowset" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.transaction.xa" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.xml" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/java.xml.crypto" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.accessibility" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.aot" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.attach" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.charsets" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.compiler" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.dynalink" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.httpserver" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.ed" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.le" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.opt" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jartool" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.javadoc" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jdeps" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jdi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jfr" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jlink" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.jsobject" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.localedata" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.management" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.management.agent" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.management.jfr" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.naming.dns" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.net" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.pack" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.sctp" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.security.auth" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.security.jgss" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.unsupported" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.xml.dom" type="simple" />
+            <root url="jrt://D:/Scoop/apps/android-studio/current/jre!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
